@@ -1,6 +1,3 @@
-#!/bin/bash
-<<<<<<< 
+#!/bin/bash 
 echo "ALX School is so cool!"
-=======
-echo "ALX Schoolis so cool"
->>>>>>> update_script
+echo "ALX Schoolis so cool!"
